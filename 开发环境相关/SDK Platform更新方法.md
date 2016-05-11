@@ -8,3 +8,4 @@
      ![](http://i.imgur.com/FxmZB8o.png)
 
 3. 然后重启SDK Manager即可，速度非常的快
+   ![](http://i.imgur.com/JC5bn8G.png)
